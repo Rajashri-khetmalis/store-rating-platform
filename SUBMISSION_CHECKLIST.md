@@ -1,0 +1,22 @@
+# Submission Checklist
+
+- [ ] Run database/schema.sql in MySQL Workbench
+- [ ] Configure backend/.env
+- [ ] Run `npm install` in backend
+- [ ] Run `npm run seed`
+- [ ] Run backend with `npm run dev`
+- [ ] Configure frontend/.env if API URL differs
+- [ ] Run `npm install` in frontend
+- [ ] Run frontend with `npm run dev`
+- [ ] Test Admin login and dashboard
+- [ ] Test creating Normal User, Admin, Store Owner
+- [ ] Test creating and assigning a Store
+- [ ] Test Normal User signup/login
+- [ ] Test store search and sorting
+- [ ] Test submit rating 1–5
+- [ ] Test modifying rating
+- [ ] Test Store Owner average rating and rater list
+- [ ] Test Change Password for each role
+- [ ] Test logout
+- [ ] Check validation messages
+- [ ] Take screenshots for final submission/demo
