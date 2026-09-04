@@ -168,8 +168,3 @@ Frontend normally runs on:
 10. Login as store owner and verify average rating and rater list.
 11. Login as admin and verify dashboard counts and listings.
 
-## 8. Notes
-
-The challenge says the backend may use ExpressJS, Loopback, or NestJS and the database may be PostgreSQL/MySQL. This implementation chooses ExpressJS + MySQL while keeping the requested React frontend.
-
-For a real production deployment, use HTTPS, a secure secret manager, refresh tokens/secure cookies, stronger rate limiting, and environment-specific configuration.
